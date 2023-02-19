@@ -9,7 +9,7 @@ on:
 
 permissions:
   id-token: write
-  contenst: read
+  contents: read
 
 
 # jobs:
