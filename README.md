@@ -1,2 +1,2 @@
 # BicepPlayground
-My Bicep Playground
+My Bicep Playground 💪
