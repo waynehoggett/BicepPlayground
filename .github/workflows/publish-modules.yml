@@ -11,7 +11,7 @@ permissions:
   id-token: write
   contenst: read
 
-# todo: run publish for each module if it has changed from the previous version
+
 # jobs:
 #   publish:
 #     uses: ./.github/workflows/publish-module.yml
